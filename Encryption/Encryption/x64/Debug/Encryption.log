@@ -1,0 +1,6 @@
+﻿  Encryption.cpp
+D:\S-DES\Encryption\Encryption\Encryption.cpp(301,140): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+D:\S-DES\Encryption\Encryption\Encryption.cpp(307,134): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+D:\S-DES\Encryption\Encryption\Encryption.cpp(313,18): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+D:\S-DES\Encryption\Encryption\Encryption.cpp(319,157): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+  Encryption.vcxproj -> D:\S-DES\Encryption\x64\Debug\Encryption.exe
